@@ -1,0 +1,12 @@
+{
+	"name": "libxss1",
+	"deps": [
+		"x11-proto"
+	],
+	"description": "included in x11-proto",
+	"version": {
+		"method": "repology",
+		"repology": "libxss",
+		"distro": "debian_testing"
+	}
+}
