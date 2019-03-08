@@ -1,9 +1,9 @@
 {
 	"name": "libxss1",
 	"deps": [
-		"x11-proto"
+		"x11-lib"
 	],
-	"description": "included in x11-proto",
+	"description": "included in x11-lib",
 	"version": {
 		"method": "repology",
 		"repology": "libxss",
