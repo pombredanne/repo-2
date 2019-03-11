@@ -25,7 +25,7 @@ Please do note that APT may be warning you that this repository doesn't contain 
 Contributing & Formatting
 -------------------------
 
-All configurations stored in `[packages](packages)` directory.
+All configurations stored in [`packages`](packages) directory.
 Configurations are in JSON format, for example, our first package, libxss1:
 
 ```
